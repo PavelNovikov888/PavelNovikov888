@@ -9,6 +9,7 @@ Power BI
 Seaborne  
 Plotly  
 Comet-ml  
+VSCode
 ### Инструменты:
 Git  
 Colab 

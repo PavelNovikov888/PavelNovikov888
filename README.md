@@ -1,7 +1,8 @@
 # Junior Data Scientist
 ### Ключевые компетенции:
 Python   
-Pandas  
+Pandas
+Numpy
 SQL  
 Sklearn  
 Power BI  
@@ -18,6 +19,8 @@ RegEx
 Markdown  
 DAX  
 ## Образование:
+Онлайн-школа SkillFactory 2021-2023 год
+Курс "Профессия Data Science" 
 Институт Прикладной Психологии 2017 год  
 Специальность:психолог  
 Южно-Уральский Государственный Университет 2000 год   

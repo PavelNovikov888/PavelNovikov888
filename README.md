@@ -1,23 +1,27 @@
 # Junior Data Scientist
 ### Ключевые компетенции:
 Python   
-Pandas
-Numpy
+Pandas  
+Numpy  
 SQL  
-Sklearn  
-Power BI  
+Sklearn
+
 ### Дополнительно:
 Seaborne  
 Plotly  
 Comet-ml  
-VSCode
+
 ### Инструменты:
-Git  
-Colab 
-Excel  
+VSCode  
+GIT  
+Colab   
+Excel   
+Power BI    
 RegEx  
 Markdown  
 DAX  
+M  
+Tableau  
 ## Образование:
 Онлайн-школа SkillFactory 2021-2023 год  
 Курс "Профессия Data Science"   

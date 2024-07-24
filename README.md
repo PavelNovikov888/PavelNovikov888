@@ -17,12 +17,12 @@
 Выиграл хакатон на платформе Kaggle https://goo.su/125k08
 
 Мои проекты:
-Рекомендательная система для интернет-магазина https://github.com/PavelNovikov888/RC_prod
-Сегментация покупателей сети розничных магазинов по модели RFM https://goo.su/VeQtPka
-Дрифт данных и мониторинг с помощью Prometheus и Grafana
-https://github.com/PavelNovikov888/drift_project
-Парсинг данных https://goo.su/CuujAz
-Ещё 20+ моих работ: https://github.com/PavelNovikov888/portfolio
+Рекомендательная система для интернет-магазина https://github.com/PavelNovikov888/RC_prod  
+Сегментация покупателей сети розничных магазинов по модели RFM https://goo.su/VeQtPka  
+Дрифт данных и мониторинг с помощью Prometheus и Grafana   
+https://github.com/PavelNovikov888/drift_project   
+Парсинг данных https://goo.su/CuujAz   
+Ещё 20+ моих работ: https://github.com/PavelNovikov888/portfolio   
 
 Во время учебы успешно прошел 2 месячную стажировку в компании Моторика и по итогам получил рекомендацию от отдела разработки.
 
